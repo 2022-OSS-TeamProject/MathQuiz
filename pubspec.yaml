@@ -56,4 +56,8 @@ flutter:
       fonts:
         - asset: fonts/PressStart2P-Regular.ttf
 
+    - family: HiMelody
+      fonts:
+        - asset: fonts/HiMelody-Regular.ttf
+
   uses-material-design: true
