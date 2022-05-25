@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF5675&height=300&section=header&text=Math quiz game&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF5675&height=300&section=header&text=Mathquizgame&fontSize=90&fontColor=FFFFFF)
 
 ## 짱구야 숙제하자📖(Math Quiz Game)
 설명설명
