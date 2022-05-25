@@ -10,7 +10,7 @@ APK file<br>
 apk 파일 올리기
 
 ## Technology we've used 🛠
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/AndroidStudio-00FF7F?style=flat-square&logo=androidstudio&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/> 
 <br>
 
 ## Screens 📱
