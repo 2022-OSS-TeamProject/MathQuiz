@@ -1,11 +1,11 @@
-name: math_quiz_app //앱 이름
-description: A new Flutter project. //설명 (플러터로 만든 프로젝트)
+name: math_quiz_app #앱 이름
+description: A new Flutter project. #설명 (플러터로 만든 프로젝트)
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 version: 1.0.0+1 #플러터 버전
 
-environment: //환경
+environment: #환경
   sdk: ">=2.16.2 <3.0.0"
 
 
