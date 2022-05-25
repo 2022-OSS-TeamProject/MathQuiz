@@ -1,0 +1,59 @@
+name: math_quiz_app //앱 이름
+description: A new Flutter project. //설명 (플러터로 만든 프로젝트)
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1 #플러터 버전
+
+environment: //환경
+  sdk: ">=2.16.2 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter #플러터 환경
+
+  #각종 필요한 기능 불러오기
+  cupertino_icons: ^1.0.2 #아이콘
+  animated_text_kit: ^4.2.1 #애니메이션 텍스트
+  outline_gradient_button: ^2.0.0+1 #테두리 그라데이션 버튼
+  percent_indicator: ^4.0.1 #퍼센트 인디케이터
+  audioplayers: ^0.20.1 #소리
+  shared_preferences: ^2.0.13
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.9.2 #플러터 실행 아이콘
+  flutter_test:
+    sdk: flutter
+
+flutter_lints: ^1.0.0
+
+flutter_icons: #플러터 아이콘
+  android: true #안드로이드 : 활성화
+  ios: true #ios : 활성화
+  image_path: "images/appIcon.JPG" #이미지 주소
+
+flutter:
+
+  assets: #필요한 파일 불러오기(이미지, 소리 등)
+    - images/
+    - assets/
+
+  fonts: #폰트 불러오기
+    - family: Lobster
+      fonts:
+        - asset: fonts/Lobster-Regular.ttf
+
+    - family: Architects_Daughter
+      fonts:
+        - asset: fonts/ArchitectsDaughter-Regular.ttf
+
+    - family: Chakra_Petch
+      fonts:
+        - asset: fonts/ChakraPetch-Regular.ttf
+
+    - family: Press_Start_2P
+      fonts:
+        - asset: fonts/PressStart2P-Regular.ttf
+
+  uses-material-design: true
