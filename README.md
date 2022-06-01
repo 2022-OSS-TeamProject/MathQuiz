@@ -25,7 +25,8 @@ APK file<br>
 
 ### Game Screen 🕹️
 
-게임을 시작하면 숫자가 줄어듭니다. 제한시간 안에 문제를 풀어야 하며, 문제를 맞추면 시간이 늘어나고 틀리면 줄어듭니다. 숫자가 0이 되면 게임이 종료됩니다.
+게임을 시작하면 숫자가 줄어듭니다. 제한시간 안에 문제를 풀어야 하며, 문제를 맞추면 시간이 늘어나고 틀리면 줄어듭니다. 
+숫자가 0이 되면 게임이 종료됩니다.
 
 ![image](https://github.com/2022-OSS-TeamProject/MathQuiz/blob/1557a006ba5df89ec5a564915106adc39e5b59d1/GIF_files/gamePlay.gif)<br><br>
 
