@@ -19,7 +19,7 @@ APK file<br>
 게임 실행 시 나오는 첫 화면입니다. 앱 이름인 "짱구야 숙제하자" 텍스트가 중앙에 배치되어 있고, Tap To Start 버튼이 반복적인 그라데이션 애니메이션으로 활성화되어있습니다.
 아무 곳이나 눌러서 게임을 실행할 수 있습니다.
 
-![image](이미지 주소)<br><br>
+![image](https://github.com/2022-OSS-TeamProject/MathQuiz/blob/022288a5dc8d005a78f5a294114164fff3a884fb/GIF_files/mainPage.gif)<br><br>
 
 
 설명설명
