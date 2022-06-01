@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF5675&height=200&section=header)
 
 ## 짱구야 숙제하자📖(Math Quiz Game)
-설명설명
+랜덤으로 출제되는 사칙 연산 문제를 푸는 게임입니다.
 
 Demo Video<br>
 유튜브 링크
 
 APK file<br>
-apk 파일 올리기
+<a href="https://drive.google.com/file/d/1ORAWj6xvcL1AKwITMwm3OEiE1NEd3aWT/view?usp=sharing"><img src="https://img.shields.io/badge/download-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a><br>
 
 ## Technology we've used 🛠
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/> 
