@@ -4,7 +4,7 @@
 랜덤으로 출제되는 사칙 연산 문제를 푸는 게임입니다.
 
 Demo Video<br>
-유튜브 링크
+https://youtu.be/QxORbg96cbk
 
 APK file<br>
 <a href="https://drive.google.com/file/d/1ORAWj6xvcL1AKwITMwm3OEiE1NEd3aWT/view?usp=sharing"><img src="https://img.shields.io/badge/download-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a><br>
