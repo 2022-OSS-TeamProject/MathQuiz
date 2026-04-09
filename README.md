@@ -32,7 +32,7 @@ APK file<br>
 ![image](https://github.com/2022-OSS-TeamProject/MathQuiz/blob/1557a006ba5df89ec5a564915106adc39e5b59d1/GIF_files/gameOver.gif)<br><br>
 
 ## Contributors 🔥
-<a href="https://github.com/Kangsoyeong"><img src="https://img.shields.io/badge/Kang Soyeong-black?style=social-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/yourseong"><img src="https://img.shields.io/badge/Chae Yuseong-black?style=social-square&logo=github&logoColor=white"/></a>
 <a href="https://github.com/NayeonKim0"><img src="https://img.shields.io/badge/Kim Nayeon-black?style=social-square&logo=github&logoColor=white"/></a>
 <a href="https://github.com/dud021212"><img src="https://img.shields.io/badge/Kim Minjun-black?style=social-square&logo=github&logoColor=white"/></a>
 <a href="https://github.com/ji-seok-Song"><img src="https://img.shields.io/badge/Song jiseok-black?style=social-square&logo=github&logoColor=white"/></a>
